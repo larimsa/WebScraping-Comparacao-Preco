@@ -1,6 +1,5 @@
 # WebScraping-Comparacao-Preco
-Este repositório contém um script em Python para comparar preços de produtos entre o Mercado Livre e a Amazon. Ele utiliza técnicas de web scraping para reunir informações do produto nos respectivos sites.
-
+Este repositório contém um script em Python para comparar preços de produtos entre o Mercado Livre e a Amazon. Ele utiliza técnicas de web scraping para reunir informações do produto nos respectivos sites, incluindo título, avaliação e link para o produto. O script oferece uma maneira conveniente de encontrar o melhor preço disponível para um determinado produto em ambas as plataformas, permitindo aos usuários economizar tempo e dinheiro.
 ## Recursos
 - Obtém dados do produto do Mercado Livre e da Amazon.
 - Compara preços entre as duas plataformas.

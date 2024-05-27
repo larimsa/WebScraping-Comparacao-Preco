@@ -6,15 +6,15 @@ Este repositório contém um script em Python para comparar preços de produtos 
 - Compara preços entre as duas plataformas.
 - Fornece links para os produtos com os preços mais baixos em cada plataforma.
 
-## Como usar
+# Como usar
 
-# Requisitos
+## Requisitos
 - Python 3.x
 - BeautifulSoup (`bs4`)
 - Selenium
 - Chrome WebDriver
 
-# Passo a passo
+## Passo a passo
 1. Clone ou baixe o repositório.
 2. Instale os pacotes Python necessários usando o pip:
     ```
@@ -27,7 +27,7 @@ Este repositório contém um script em Python para comparar preços de produtos 
 2. Digite o nome do produto quando solicitado.
 3. O script exibirá o preço mais baixo e o link para o produto no Mercado Livre e na Amazon.
 
-## Funções
+# Funções
 ### `get_data_mercadolivre(produto, limit=1)`
 - Obtém dados do produto do Mercado Livre.
 - Parâmetros:

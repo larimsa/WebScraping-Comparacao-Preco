@@ -6,12 +6,6 @@ Este repositório contém um script em Python para comparar preços de produtos 
 - Compara preços entre as duas plataformas.
 - Fornece links para os produtos com os preços mais baixos em cada plataforma.
 
-## Requisitos
-- Python 3.x
-- BeautifulSoup (`bs4`)
-- Selenium
-- Chrome WebDriver
-
 ## Como usar
 
 # Requisitos

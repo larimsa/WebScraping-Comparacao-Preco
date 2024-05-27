@@ -32,14 +32,14 @@ Este repositório contém um script em Python para comparar preços de produtos 
 - Obtém dados do produto do Mercado Livre.
 - Parâmetros:
     - `produto`: O nome do produto.
-    - `limit`: Limite o número de resultados (opcional, o padrão é 1).
+    - `limit`: Limite o número de resultados (opcional, o padrão é 5).
 - Retorna uma lista de dicionários contendo informações do produto.
 
 ### `get_data_amazon(produto, limit=1)`
 - Obtém dados do produto da Amazon.
 - Parâmetros:
     - `produto`: O nome do produto.
-    - `limit`: Limite o número de resultados (opcional, o padrão é 1).
+    - `limit`: Limite o número de resultados (opcional, o padrão é 5).
 - Retorna uma lista de dicionários contendo informações do produto.
 
 ### `compare_prices(dados_mercadolivre, dados_amazon)`
